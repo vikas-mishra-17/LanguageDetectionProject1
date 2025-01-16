@@ -1,0 +1,5 @@
+Original Text: मुझे तुमसे नफ़रत है
+Detected Language: hi
+Translated Text (if applicable): I hate you
+Sentiment: NEGATIVE
+Confidence: 0.9991129040718079
